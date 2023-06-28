@@ -1,6 +1,6 @@
 # Meeresschildkröten :turtle:
 ---
-Die **Meeresschildkröten** (*Cheloniidae*) stellen im engeren Sinne eine Familie innerhalb der [Schildkröten](https://de.wikipedia.org/wiki/Schildkröten) dar.  Zusammen mit der Familie *Dermochelyidae* (deren einzige Art die [Lederschildkröte](https://de.wikipedia.org/wiki/Lederschildkr%C3%B6te) ist) bilden sie die Überfamilie der ***Chelonioidea***, die auf Deutsch oft als *Meeresschildkröten* im weiteren Sinne bezeichnet werden;[^1] dies entspricht dann auch der intuitiven Interpretation als *Gesamtheit der im Meer lebenden Schildkröten*.  
+Die **Meeresschildkröten** (*Cheloniidae*) stellen im engeren Sinne eine Familie innerhalb der [Schildkröten](https://de.wikipedia.org/wiki/Schildkröten) dar.  Zusammen mit der Familie *Dermochelyidae* (deren einzige Art die [Lederschildkröte](https://de.wikipedia.org/wiki/Lederschildkr%C3%B6te) ist) bilden sie die Überfamilie der ***Chelonioidea***, die auf Deutsch oft als *Meeresschildkröten* im weiteren Sinne bezeichnet werden;[^1] dies entspricht dann auch der intuitiven Interpretation als **Gesamtheit der im Meer lebenden Schildkröten**.  
 
 ## Arten von Meeresschildkröten
 Die Gruppe der Meeresschildkröten umfasst insgesamt sechs bzw. sieben Arten, die eine Reihe gemeinsamer Merkmale tragen. 
