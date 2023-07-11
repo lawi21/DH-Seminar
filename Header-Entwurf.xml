@@ -116,9 +116,10 @@
                     <p>Tagebucheintrag 2</p>
                     </div>
                 <div type="diaryEntry" n="3">
-                    <p>Tagebucheintrag 3 t</p>
+                    <p>Tagebucheintrag 3 beginnt</p>
                     <!-- Wie nervig. Der Tagebucheintrag wird durch einen Seitenwechsel unterbrochen -->
                     <pb facs="https://e-learning.hdm-stuttgart.de/moodle/pluginfile.php/459707/mod_folder/content/0/188143f920f-22.pdf?forcedownload=1"/>
+                    <p>Tagebucheintrag 3 wird fortgesetzt</p>
                 </div>
                 <div type="diaryEntry" n="4">
                     <p>Tagebucheintrag 4 </p>
